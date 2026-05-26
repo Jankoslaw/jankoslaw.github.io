@@ -1,1 +1,0 @@
-# jankoslaw.github.io
