@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on First project</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on First project</description>
     <generator>Hugo</generator>
     <language>cs</language>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2026 15:27:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New post</title>
+      <link>http://localhost:1313/posts/new-post/</link>
+      <pubDate>Tue, 26 May 2026 15:27:22 +0200</pubDate>
+      <guid>http://localhost:1313/posts/new-post/</guid>
+      <description>&lt;p&gt;Hello world!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
