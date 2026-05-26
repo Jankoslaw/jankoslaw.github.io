@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 locale = 'cs'
 title = 'First project'
-theme = 'terminal'
+theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
