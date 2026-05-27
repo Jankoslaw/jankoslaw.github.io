@@ -8,5 +8,5 @@ title = 'New post'
 
 Hello world!
 
-<iframe width="100%" height="300" name="iframe" src="https://www.google.com/"></iframe>
+<embed width="100%" height="300" src="https://www.google.com/maps"></embed>
 
