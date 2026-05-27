@@ -6,7 +6,8 @@ title = 'New post'
 
 
 
-Hello world!
+# Hello world!
+**bold text**
 
 <embed width="100%" height="300" src="https://www.google.com/maps"></embed>
 

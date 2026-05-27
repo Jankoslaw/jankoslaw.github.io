@@ -6,4 +6,3 @@ title = 'Obrazek'
 
 {{< assets-img src="img/image.jpg" alt="Můj obrázek z assets" >}}
 
-
