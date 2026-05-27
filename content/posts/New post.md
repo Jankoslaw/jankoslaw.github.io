@@ -8,5 +8,5 @@ title = 'New post'
 
 Hello world!
 
-<iframe width="100%" height="300" name="iframe" src="https://www.w3schools.com/html/html_iframe.asp"></iframe>
+<iframe width="100%" height="300" name="iframe" src="https://www.google.com/"></iframe>
 
